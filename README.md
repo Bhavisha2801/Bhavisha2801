@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<a href="https://www.linkedin.com/in/bhavisha-nayi-2b683a211/" ><img src="https://user-images.githubusercontent.com/96948878/162975338-3401c380-96fe-43dd-926b-1b401066b7cb.svg" width="40" height="40"></a>
