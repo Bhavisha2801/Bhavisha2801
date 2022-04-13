@@ -18,7 +18,7 @@
   </Menu>
 </Header>
   
-- I'm MERN Stack Developer who want to become a Full Stack Web Developer and want to work in the software industry and gain experiences related to my work. I am looking forward to work in software industry and build real world projects to increase my knowledge and experiences as a Full Stack Web Developer.
+- I'm Full Stack Web Developer who want to work in the software industry and gain experiences related to my work. I'm working on a ReactJS, Redux for frontend and NodeJS and Express for backend. I am looking forward to work in software industry and build real world projects to increase my knowledge and experiences as a Full Stack Web Developer.
 
 
   <h3>About My Key Points:</h3>
