@@ -50,6 +50,17 @@
 </Header>
 
     
+ ### Most Language Used:
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavisha2801&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  
+  
+### GitHub status:
+  
+  ![Chetan's GitHub status](https://github-readme-stats.vercel.app/api?username=Bhavisha2801&theme=dark&show_icons=true) 
+
+    
 
 
   
