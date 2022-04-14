@@ -9,11 +9,11 @@
     style={{ lineHeight: '64px' }}
   >
     <Menu.Group> <!-- "align=left" is implied -->
-      <Menu.Item key="10"><a href="https://www.linkedin.com/in/bhavisha-nayi-2b683a211/" ><img src="https://user-images.githubusercontent.com/96948878/162975338-3401c380-96fe-43dd-926b-1b401066b7cb.svg" width="40" height="40"></a></Menu.Item>
-      <Menu.Item key="12"><a href="https://www.instagram.com/bhavi__281/" ><img src="https://tse3.mm.bing.net/th?id=OIP.7SiksC9ocAIlr7HllOtJfwHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a></Menu.Item>
-      <Menu.Item key="14"><a href="https://leetcode.com/nayibhavisha/" ><img src="https://tse3.mm.bing.net/th?id=OIP.ctLg30IjZeZRQU7v7nm0KwHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a></Menu.Item>
+      <Menu.Item key="10"><a target="_blank" href="https://www.linkedin.com/in/bhavisha-nayi-2b683a211/" ><img src="https://user-images.githubusercontent.com/96948878/162975338-3401c380-96fe-43dd-926b-1b401066b7cb.svg" width="40" height="40"></a></Menu.Item>
+      <Menu.Item key="12"><a target="_blank" href="https://www.instagram.com/bhavi__281/" ><img src="https://tse3.mm.bing.net/th?id=OIP.7SiksC9ocAIlr7HllOtJfwHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a></Menu.Item>
+      <Menu.Item key="14"><a target="_blank" href="https://leetcode.com/nayibhavisha/" ><img src="https://tse3.mm.bing.net/th?id=OIP.ctLg30IjZeZRQU7v7nm0KwHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a></Menu.Item>
       <Menu.Item key="16">
-        <a href="https://marvelous-stroopwafel-c4b380.netlify.app/" ><img src="https://tse2.mm.bing.net/th?id=OIP.kPhEz79oc1MCC4KGyDHiFgHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a>
+        <a target="_blank" href="https://marvelous-stroopwafel-c4b380.netlify.app/" ><img src="https://tse2.mm.bing.net/th?id=OIP.kPhEz79oc1MCC4KGyDHiFgHaHa&pid=Api&P=0&w=162&h=162" width="40" height="40"></a>
        </Menu.Group>
   </Menu>
 </Header>
