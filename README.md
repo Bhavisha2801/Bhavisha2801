@@ -25,7 +25,7 @@
   <h3>About My Key Points:</h3>
 
 - 🔭 I’m currently working as a Frontend Developer;
-- 🌱 I’m currently have knowledge of JavaScript, TypeScript, ReactJs, Next.js, Node.js, MongoDB;
+- 🌱 I have knowledge of JavaScript, TypeScript, ReactJs, Next.js, Node.js, MongoDB;
 - 👯 I’m looking to collaborate on building Software Projects; 
 - 📫 How to reach me: <a href="nayibhavisha@gmail.com">nayibhavisha@gmail.com</a>
   
