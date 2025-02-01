@@ -18,13 +18,15 @@
   </Menu>
 </Header>
   
-- I'm Full Stack Web Developer who want to work in the software industry and gain experiences related to my work. I'm working on a ReactJS, Redux for frontend and NodeJS and Express for backend. I am looking forward to work in software industry and build real world projects to increase my knowledge and experiences as a Full Stack Web Developer.
+- I hold a Bachelor's degree in Information Technology from Gujarat Technological University, earned at G.E.C. Modasa. I further honed my skills through comprehensive training in Full Stack Web Development at Masai School. Professionally, I have accumulated diverse experiences, beginning as a Software Engineer at Good Game Nation, Chennai, for two months, followed by two enriching years as a Frontend Developer at iView Labs, Ahmedabad. Currently, I am working at B2BInDemand as a Frontend Developer, where I manage multiple products and contribute to their development.
+
+- I am passionate about evolving into a Full Stack Web Developer and aspire to contribute meaningfully to the software industry. My goal is to build impactful real-world projects, enhance my technical expertise, and broaden my understanding of end-to-end web development. I am excited about the prospect of learning and growing through collaborative opportunities and challenging projects in this dynamic field.
 
 
   <h3>About My Key Points:</h3>
 
-- 🔭 I’m currently working become a Full Stack Web Developer;
-- 🌱 I’m currently learning ReactJs
+- 🔭 I’m currently working as a Frontend Developer;
+- 🌱 I’m currently have knowledge of JavaScript, TypeScript, ReactJs, Next.js, Node.js, MongoDB;
 - 👯 I’m looking to collaborate on building Software Projects; 
 - 📫 How to reach me: <a href="nayibhavisha@gmail.com">nayibhavisha@gmail.com</a>
   
