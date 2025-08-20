@@ -17,10 +17,15 @@
   </Menu>
 </Header>
   
-- I hold a Bachelor's degree in Information Technology from Gujarat Technological University, earned at G.E.C. Modasa. I further honed my skills through comprehensive training in Full Stack Web Development at Masai School. Professionally, I have accumulated diverse experiences, beginning as a Software Engineer at Good Game Nation, Chennai, for two months, followed by two enriching years as a Frontend Developer at iView Labs, Ahmedabad. Currently, I am working at B2BInDemand as a Frontend Developer, where I manage multiple products and contribute to their development.
+- I hold a Bachelor's degree in Information Technology from Gujarat Technological University (G.E.C. Modasa) and further honed my skills through comprehensive Full Stack Web Development training at Masai School.
+  
+-  Professionally, I bring diverse experience in frontend development across multiple companies. I began with two enriching years as a Frontend Developer at iView Labs, Ahmedabad, where I worked on ecommerce platforms and admin panels for international clients. I then contributed at B2BInDemand as a Frontend Developer, building and managing products such as a hospital management system and an email marketing platform.
 
-- I am passionate about evolving into a Full Stack Web Developer and aspire to contribute meaningfully to the software industry. My goal is to build impactful real-world projects, enhance my technical expertise, and broaden my understanding of end-to-end web development. I am excited about the prospect of learning and growing through collaborative opportunities and challenging projects in this dynamic field.
+-  Currently, I am working at Vagaro Technologies as a Frontend Developer, where I contribute to core product development. I have implemented modules such as Forms, Customers, Files, Notes, Appointments, and Gift Cards, working extensively with React.js, TypeScript, Redux Toolkit, and Tailwind CSS to deliver scalable, high-performance features.
 
+-  I am passionate about evolving into a Full Stack Web Developer and aspire to contribute meaningfully to the software industry. My goal is to build impactful real-world projects, enhance my technical expertise, and broaden my end-to-end development knowledge.
+
+-  I am excited about the prospect of learning and growing through collaborative opportunities and challenging projects in this dynamic field.
 
   <h3>About My Key Points:</h3>
 
